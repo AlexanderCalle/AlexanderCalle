@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander Calle 👋
+# Hi there, I'm Alexander Callebaut 👋
 
 ## About Me
 I'm a passionate software developer with a love for creating innovative solutions and improving existing ones. My journey in the tech world has been driven by curiosity and a constant desire to learn and grow, this journey began at a very young age by self-study. I enjoy working on projects to build something meaningful.
@@ -12,11 +12,13 @@ I'm a passionate software developer with a love for creating innovative solution
 ## Projects
 Here are a few projects I've worked on:
 
+- **[DeSpieghel](www.despieghel.be):** A website for an restaurant with a custom reservation system.
+- **[KSA Rooyghem](www.ksarooyghem.be):** A website for my youth association to give information, post news, update members.
 - **[Akimbo](https://github.com/AlexanderCalle/Akimbo):** A website for Art history students to write about their experience, reviews and other stuff.
 - **[Bun CLI template starter](https://github.com/AlexanderCalle/create-bun-starters-template):** A CLI project to quick start full-stack projects or only frontend/backend projects
 
 ## Get in Touch
-- **Email:** [alexander.calle@example.com](mailto:callebauta@hotmail.com)
+- **Email:** [callebauta@hotmail.com](mailto:callebauta@hotmail.com)
 - **LinkedIn:** [Alexander Callebaut](https://www.linkedin.com/in/alexander-callebaut/)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
